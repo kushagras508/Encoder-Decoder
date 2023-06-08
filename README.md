@@ -6,7 +6,7 @@
 
 ### -> Can also be used to Compress data and increase portability.
 
-### -> Technology Used : HTML , CSS, JavaScript , PHP .
+### -> Technology Used : HTML , CSS, JavaScript.
 
 ### -> Live Url : https://kushagras508.github.io/Encoder-Decoder/
 
